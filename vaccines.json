@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.22334,
+                    33
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "remaining_vaccines": "Vaccines Left: 42",
+                "name": "Medical City Green Oaks Hospital",
+                "form": "https://docs.google.com/forms/d/e/1FAIpQLSegjZxbRot3L18b7sRNeCc9WR4QhJDNgtI_fqkrwcw5AhLMXw/viewform?usp=sf_link",
+                "vaccineid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.6664,
+                    33.346
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "remaining_vaccines": "Vaccines Left: 37",
+                "name": "Medical City Frisco",
+                "form": "https://docs.google.com/forms/d/e/1FAIpQLSegjZxbRot3L18b7sRNeCc9WR4QhJDNgtI_fqkrwcw5AhLMXw/viewform?usp=sf_link",
+                "vaccineid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1347,
+                    33.73471
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "remaining_vaccines": "Vaccines Left: 100",
+                "name": "Medical City Plano",
+                "form": "https://docs.google.com/forms/d/e/1FAIpQLSegjZxbRot3L18b7sRNeCc9WR4QhJDNgtI_fqkrwcw5AhLMXw/viewform?usp=sf_link",
+                "vaccineid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.4121,
+                    33.2374
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "remaining_vaccines": "Vaccines Left: 20",
+                "name": "Texas Health Presbyterian Plano",
+                "form": "https://docs.google.com/forms/d/e/1FAIpQLSegjZxbRot3L18b7sRNeCc9WR4QhJDNgtI_fqkrwcw5AhLMXw/viewform?usp=sf_link",
+                "vaccineid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.1231,
+                    33.21312
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "remaining_vaccines": "Vaccines Left: 50",
+                "name": "Lifecare Hospital of Plano",
+                "form": "https://docs.google.com/forms/d/e/1FAIpQLSegjZxbRot3L18b7sRNeCc9WR4QhJDNgtI_fqkrwcw5AhLMXw/viewform?usp=sf_link",
+                "vaccineid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.23122,
+                    33.23122
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "remaining_vaccines": "Vaccines Left: 100",
+                "name": "Children's Medical Center",
+                "form": "https://docs.google.com/forms/d/e/1FAIpQLSegjZxbRot3L18b7sRNeCc9WR4QhJDNgtI_fqkrwcw5AhLMXw/viewform?usp=sf_link",
+                "vaccineid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.1,
+                    33.99922
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "10am - 6pm",
+                "remaining_vaccines": "Vaccines Left: 15",
+                "name": "Baylor Scott And White - Frisco",
+                "form": "https://docs.google.com/forms/d/e/1FAIpQLSegjZxbRot3L18b7sRNeCc9WR4QhJDNgtI_fqkrwcw5AhLMXw/viewform?usp=sf_link",
+                "vaccineid": "07"
+            }
+        }
+    ]
+}
