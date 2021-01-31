@@ -8,7 +8,7 @@ function initMap() {
   // Load the vaccine locations GeoJSON onto the map.
   map.data.loadGeoJson('vaccines.json', {idPropertyName: 'vaccineid'});
 
-  const apiKey = 'AIzaSyDzByzQVTI35JAIShkspVEqQyoTl5rV5lY';
+  const apiKey = 'YOUR API KEY';
   const infoWindow = new google.maps.InfoWindow();
 
   // Show the information for a vaccine when its marker is clicked.
